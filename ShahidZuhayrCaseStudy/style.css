@@ -1,0 +1,37 @@
+body {
+  background-color: gray;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+#calculator {
+  margin: 50px auto;
+  width: 240px;
+  border: 5px solid darkslategray;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  
+}
+
+#display {
+  width: 100%;
+  height: 40px;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 50px;
+  height: 50px;
+  background-color: turquoise;
+  margin: 2px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #black;
+  
+}
